@@ -1,0 +1,32 @@
+table	{vertical-align: middle;
+		text-align: center;
+		border-collapse:seperate;
+		border: 0 none;
+		border-spacing:20px;
+		background-color:#000000;
+		margin: auto;
+		}
+		
+td		{padding:0px}
+		
+body	{background-image: url('2031-bg.png'); background-repeat:repeat}
+
+h1,h2,h3	{
+			
+			color: #00FF00; 
+			font-family: "Segoe print", Verdana, sans-serif;
+			
+			}
+			
+h1			{font-size: 36pt;}
+
+h2			{font-size: 14pt;
+			 text-align:left;
+			}
+			
+h3			{font-size: 12pt;
+			 text-align:right;
+			}
+			
+			
+/*Kevin Shah, IN733, 0026*/
